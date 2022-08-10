@@ -1,4 +1,4 @@
-# 03 | Drag-n-Drop
+# 02 | Drag-n-Drop
 
 **Mini coppy Trello**
 
